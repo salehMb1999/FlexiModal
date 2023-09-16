@@ -8,5 +8,6 @@ In this project, I've created something very useful and practical that you can c
 You can tailor it to your specific needs. I've utilized HTML, CSS, and JavaScript to bring this project to life.
 
 I hope you like it! If you had a good time with it, I'd be thrilled if you could give it a star.
+live preview: https://salehmb1999.github.io/FlexiModal/
 
 Thank you!
