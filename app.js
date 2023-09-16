@@ -11,3 +11,9 @@ times.addEventListener("click", () => {
   modal.style.top = "-20rem";
   section.style.filter = "blur(0px)";
 });
+document.body.addEventListener("keydown", (event) => {
+  if ((event.key = "Escape")) {
+    modal.style.top = "-20rem";
+    section.style.filter = "blur(0px)";
+  }
+});
